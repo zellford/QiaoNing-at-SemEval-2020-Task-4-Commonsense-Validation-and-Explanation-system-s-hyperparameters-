@@ -1,8 +1,8 @@
 # QiaoNing-at-SemEval-2020-Task-4-Commonsense-Validation-and-Explanation-system-s-hyperparameters-
 
-Model
+All the pretrained models' checkpoints are download from https://github.com/huggingface/transformers
 
-command
+Model command
 
 Bert
 
